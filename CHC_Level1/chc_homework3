@@ -1,2 +1,10 @@
 لماذا تستخدم اداة john the ripper؟ 
+تستخدم في كسر كلمات المرور (password cracker)
+
 وماالفرق بين انواع التشفير one-way و two-way ؟
+one way : تشفير فقط و لا يمكن الرجوع و فك التشفير 
+
+two way: تشفير و فك التشفير 
+1- Symmetric: مفتاح واحد للتفير و فك التشفير 
+2- Assymmetric: two keys >> public key for encryption and private key for decryption 
+مفتاحين .. واحد للتشفير و مفتاخ اخر لفك التشفير 

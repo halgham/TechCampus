@@ -1,0 +1,24 @@
+1 Install Open ssh in ubuntu using apt
+2 update the apt List
+3 install VLC player
+4 change your DNS to 8.8.8.8 and 8.8.4.4
+5 Secure the SSH ( put all what you know in the configuration file)
+6 How can you find out how much memory Linux is using?  
+7 What is a typical size for a swap partition under a Linux system?
+8 what is the version of BASH in your system?
+9 write Hello world program in Bash
+10 Run the Program 
+
+Answers: 
+sudo apt-get install openssh
+sudo apt-get install openssh-server
+sudo apt-get update
+sudo apt-get install vlc
+free    //memory check
+bash  --version 
+echo "Hello World" 
+
+
+
+
+to be continued ..

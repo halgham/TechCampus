@@ -25,10 +25,3 @@ cd Desktop/
 ~/Desktop$/folder1$ cd..        
 ~/Desktop$ ls                                // list all folders and files in Desktop 
 folder1   NewFile                            // result
-
-
-
-
-
-
-

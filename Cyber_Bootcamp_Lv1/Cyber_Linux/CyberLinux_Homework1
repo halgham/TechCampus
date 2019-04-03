@@ -12,7 +12,23 @@ Clear
 
 3 what is the latest Linux kernel version Number? 
 
+Ubuntu 18.04.2 LTS
 
  
 4 create a Folder"folder1", go to it and create a file"New File ", and then Copy the File to the Desktop. ( write every command ) .
+
+cd Desktop/ 
+~/Desktop$ mkdir folder1                       //create folder1
+~/Desktop$ cd folder1        
+~/Desktop$/folder1$ touch NewFile             //ctreat NewFile
+~/Desktop$/folder1$ cp NewFile ~/Desktop      //Copy NewFile in folder1 to Desktop
+~/Desktop$/folder1$ cd..        
+~/Desktop$ ls                                // list all folders and files in Desktop 
+folder1   NewFile                            // result
+
+
+
+
+
+
 
